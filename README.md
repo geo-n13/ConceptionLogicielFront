@@ -6,7 +6,8 @@
 
 #### Où se trouve le suivi de projet ?
 
-Dans l'onglet projet 
+Dans l'onglet projet du repository GitHub.
+
 ## Screenshots
 
 ![Planning](./planning.png)
