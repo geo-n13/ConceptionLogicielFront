@@ -6,7 +6,7 @@
 
 #### Où se trouve le suivi de projet ?
 
-Dans l'onglet projet du repository [GitHub]([url](https://github.com/users/geo-n13/projects/1))
+Dans l'onglet projet du repository [GitHub](https://github.com/users/geo-n13/projects/1)
 
 ## Screenshots
 
